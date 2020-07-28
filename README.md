@@ -1,9 +1,6 @@
 # DevFML_Employee_Project_V1.8
-Projetos desenvolvidos por DevFML
 
-I am not responsible for any damage caused by installing the software on your hardware.
-
-Esse Software foi desenvolvido por DevFML. Autor: Eduardo Sayans. Versão do Software: V1.8
+Esse Software foi desenvolvido por Eduardo Sayans. Versão do Software: V1.8
 
 Contato: devfastml@outlook.com Especificar no assunto do e-mail o motivo do contato.
 
